@@ -6,20 +6,20 @@
 If you want to run .py file:
 
 
-1 - Please RUN requirement file with this command ----> pip install -r requirement.txt
+  1 - Please RUN requirement file with this command ----> pip install -r requirement.txt
 
-2 - Change the FILE_PATH on main.py
+  2 - Change the FILE_PATH on main.py
 
-3 - Run the "main.py" file
+  3 - Run the "main.py" file
 
 
 
 If you want to run .ipynb file
 
 
-1 - Please RUN requirement file with this command ----> pip install -r requirement.txt
+  1 - Please RUN requirement file with this command ----> pip install -r requirement.txt
 
-2 - Change the FILE_PATH on CAPTCHA.ipynb
+  2 - Change the FILE_PATH on CAPTCHA.ipynb
 
-3 - Run the "CAPTCHA.ipynb" file
+  3 - Run the "CAPTCHA.ipynb" file
 
