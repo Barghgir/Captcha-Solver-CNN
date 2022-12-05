@@ -1,6 +1,6 @@
 # Captcha-Solver-CNN
 
-**IMPORTANT** Because I used colab you should install Python 3.7.13 **IMPORTANT**
+**IMPORTANT** |Because I used colab you should install Python 3.7.13| **IMPORTANT**
 
 
 If you want to run .py file:
